@@ -2,3 +2,1491 @@
 | State-action rewards from Q-Learning
 \-----------------------------------------
 
+e877a6a78270ece271613b165bd3f595
+ -- forward : -10.07
+ -- None : 0.95
+ -- right : 2.10
+ -- left : -8.98
+
+8dbad1624c83a853d82a6748b1d2c349
+ -- forward : -5.01
+ -- None : 1.54
+ -- right : 0.57
+ -- left : 0.00
+
+720d84011795e1a49425e647a5de108d
+ -- forward : -5.08
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+1a206b368a2e26ae0d6d5b747b714b38
+ -- forward : 0.00
+ -- None : 1.37
+ -- right : 0.00
+ -- left : -19.69
+
+676ac59f27d5998d85523dd4a38c2e70
+ -- forward : 0.00
+ -- None : -2.62
+ -- right : 0.00
+ -- left : 0.00
+
+9d5a856860f3e57299cc8ea4af9de1e8
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.96
+ -- left : 0.00
+
+2ede47c0c4b32f49e49df63e41e413d8
+ -- forward : 1.70
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.30
+
+6ca8db821d16a7529d486482ddac591c
+ -- forward : 0.11
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+81f3a776148752d33ad17885fe14e5fb
+ -- forward : -5.27
+ -- None : 0.00
+ -- right : -0.08
+ -- left : -4.88
+
+27b4c4baacb87e16805060d213bec91c
+ -- forward : -4.89
+ -- None : 2.45
+ -- right : 0.33
+ -- left : 0.00
+
+c407d6664389de7f7db3394ab720167e
+ -- forward : 0.00
+ -- None : -2.64
+ -- right : 0.00
+ -- left : -10.28
+
+7ac6b2d998469bb3a8f7fb35fcf8284d
+ -- forward : -30.64
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -19.70
+
+df14c2bdcdbff1fa930b61950fb0e8d7
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.34
+ -- left : -20.27
+
+d6b81e2cb7ccfbd509d2fcfa038c02be
+ -- forward : -4.70
+ -- None : 0.00
+ -- right : 0.51
+ -- left : 0.00
+
+e599a6ddc79afc6c30ed1138bccc9195
+ -- forward : -5.10
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+b14b166d6138b97c72069ac83e4587d5
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -9.55
+
+973be252580019348e7c1b5e0fed096a
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -4.54
+
+876f824a6ed8558319bd2dc7b5cd9f78
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -19.98
+
+6d47c6fbd9aecd2f0ad16e60c2b4e22b
+ -- forward : -8.53
+ -- None : 2.16
+ -- right : 0.75
+ -- left : -10.22
+
+71912c3da494e6d204a457753496f8e0
+ -- forward : 0.54
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+332a057a0f509de5f9fb27e7ec8db844
+ -- forward : 0.00
+ -- None : -3.78
+ -- right : 0.00
+ -- left : 0.21
+
+61b23108b0ed34aecf1a96d6c4f6502f
+ -- forward : 0.64
+ -- None : -4.29
+ -- right : 0.00
+ -- left : 0.00
+
+660c6d3254c1654db501dd75fbbfe445
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -19.92
+
+02c334837a4a7d5880ae51d9572dce96
+ -- forward : -4.50
+ -- None : 1.56
+ -- right : 0.47
+ -- left : 0.00
+
+d694827bdc248d16302e3809ae8a2de2
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.71
+ -- left : 0.00
+
+026b6ed20c9af59fade0dfde338b08ee
+ -- forward : 0.00
+ -- None : 1.84
+ -- right : 0.00
+ -- left : 0.00
+
+8790bec0cf5be0dc9adbd5dbb6f72b7c
+ -- forward : 0.00
+ -- None : 0.51
+ -- right : 0.00
+ -- left : 0.00
+
+a83026b79c29d1170d192ff7173066f4
+ -- forward : -19.79
+ -- None : 0.00
+ -- right : -9.53
+ -- left : -20.19
+
+3ba43e70464ab030a15ab0d45e5ac3ba
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -10.17
+
+51d91a7fe8619cdb70b33ec07fe248e3
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.60
+
+377a259c8f77a3f549182b0163c9f0c7
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.85
+
+7e354a3859bedd96d3ba319035e5a45e
+ -- forward : -7.17
+ -- None : -0.09
+ -- right : 0.00
+ -- left : 0.00
+
+a4de73356d4bd6e15cc1be69b0e28891
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -4.58
+
+f7d571891a48f8670b5b4be1d8c95d0f
+ -- forward : -5.45
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+3f2bffd26e2fd708dd16f0b1bd545c03
+ -- forward : -19.78
+ -- None : 0.83
+ -- right : -10.01
+ -- left : 0.00
+
+9d240f59d0c2bba03a1f6c79d6f7932d
+ -- forward : 0.42
+ -- None : -2.69
+ -- right : 0.00
+ -- left : 0.00
+
+06fe5ecbe04c8832dbf8044c60e444e9
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -20.36
+
+204b5095dffc9b79c1869edc5396d74f
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 1.30
+
+87b74787f4a180b0ea85ae119c905184
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.89
+ -- left : -9.88
+
+4ed39702bb5abc258fe0d51fbfa405f8
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.32
+ -- left : -20.25
+
+5147f9549de558a10ca2b134c79d9546
+ -- forward : 0.22
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+4a7a949aa324b09a200714616b3f96a3
+ -- forward : 0.00
+ -- None : -3.49
+ -- right : 0.91
+ -- left : 0.00
+
+bcb4f041ad0a8232aeaeb7c1bcb89c21
+ -- forward : 1.55
+ -- None : -4.77
+ -- right : 0.37
+ -- left : 0.86
+
+a8bbd032f8f78f9fef1cba246a7d3c8b
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.93
+
+4704b867df307fa84a2677fbd9d73871
+ -- forward : 0.00
+ -- None : -2.19
+ -- right : 0.00
+ -- left : 0.00
+
+12c719da8dec9017c066b833c922dfbf
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.32
+ -- left : -5.35
+
+241224720366f83a2f19f80ed50bd8b5
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.62
+ -- left : 0.00
+
+a93b606aa48da20c42687634e0b5e022
+ -- forward : 0.00
+ -- None : 0.75
+ -- right : 0.00
+ -- left : 0.00
+
+f05b4c0ccc07be442bb7271f14044b42
+ -- forward : -20.30
+ -- None : 0.56
+ -- right : -9.77
+ -- left : -29.83
+
+8cb3e3ee9dd7a7b0d67d901197f6dcf4
+ -- forward : 0.00
+ -- None : -2.46
+ -- right : 0.00
+ -- left : 0.82
+
+b114ba9c09b81a8d69503df053eaabb2
+ -- forward : 0.00
+ -- None : 0.87
+ -- right : 0.00
+ -- left : 0.00
+
+cef750f37cb3cb783db9b987347990d7
+ -- forward : 0.10
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+a3ae33cdc4fd6b2ce1aa2c634bb3819c
+ -- forward : 0.00
+ -- None : -2.77
+ -- right : 0.00
+ -- left : -9.58
+
+8ae655f9d66516914a7ce50289a91e65
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.30
+ -- left : 0.00
+
+334d607de5ba1f63cb5b9c873a05fafd
+ -- forward : 0.29
+ -- None : 0.00
+ -- right : 1.04
+ -- left : 0.15
+
+72ebf6f45a1322c6cf3b274265d0f140
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.14
+ -- left : 0.00
+
+76e96a96f71f70122b98da050188b5c0
+ -- forward : 0.00
+ -- None : 1.52
+ -- right : 0.00
+ -- left : 0.00
+
+f622216f1d2c8cead136a78b609dbfbc
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -20.18
+
+1d26e2a66a3d18dafb45732027b58f2a
+ -- forward : -4.55
+ -- None : 0.90
+ -- right : 0.31
+ -- left : 0.00
+
+4f8f912da41a678f4575821060662e89
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.86
+ -- left : 0.00
+
+4eb8a82f46fa5fbadac76b4ce1dcf3ab
+ -- forward : -20.36
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+e4a66cb205754029dc17a61be1df3c0a
+ -- forward : 0.00
+ -- None : -2.57
+ -- right : 0.17
+ -- left : 0.00
+
+a1e1de88e0aa9b1b60d414638e22aa0d
+ -- forward : 0.00
+ -- None : -0.12
+ -- right : -9.93
+ -- left : 0.00
+
+0d2e9d6e54c3d906cf44b1226938843b
+ -- forward : -10.24
+ -- None : 0.88
+ -- right : 0.70
+ -- left : -9.44
+
+755751232dec585dd0b52af45b2dc33b
+ -- forward : 0.00
+ -- None : -2.48
+ -- right : 0.04
+ -- left : 0.48
+
+6888aae867524caffa005bef76673c48
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.59
+ -- left : 0.00
+
+45ae69de63804e73c7fe56d4dd2dd5ae
+ -- forward : 1.19
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+3f27c03edb66c55c379d49c142e6dac4
+ -- forward : -19.61
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+c2483b122784f76c0d05c03cdc81c1e2
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -10.50
+
+0073e44a1203eda48f841667fe35d358
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -19.82
+
+34284db3797d32d61dec9ead243732ce
+ -- forward : 0.97
+ -- None : -2.11
+ -- right : 0.26
+ -- left : 0.00
+
+3bac09bd632cfaa60bad3ee93dba67ea
+ -- forward : -19.66
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+68dc4f0ee17a2748db8fae4285be089e
+ -- forward : -30.39
+ -- None : 0.00
+ -- right : 0.93
+ -- left : -19.62
+
+f44cc51a5dd0b48e7f3a74a7358ec668
+ -- forward : 0.00
+ -- None : 1.63
+ -- right : 0.00
+ -- left : 0.00
+
+01db93821886c1fad3a084d511005d07
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.49
+ -- left : 0.00
+
+2e5eaf5f9c9dcf560db196277530a2c8
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.87
+
+4dab8206b817408e06ba9a0e4f3ac962
+ -- forward : -4.85
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+5efbbbd48581a166564998f5ac06b8d9
+ -- forward : 0.00
+ -- None : -2.97
+ -- right : 0.82
+ -- left : 0.10
+
+2de6ac4b71435c42748c32178797e591
+ -- forward : -19.70
+ -- None : 1.91
+ -- right : 0.00
+ -- left : -19.95
+
+6eb6667e1c3ee98871736605bc66271b
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.38
+ -- left : 0.00
+
+fcce3406d19ec884606ebd1a95c15668
+ -- forward : 1.81
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+e3d83dcedfc377098a56ef6ffd67dec6
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.53
+ -- left : 0.00
+
+4ba2fd55e39ac4622bd90715657fd003
+ -- forward : 0.45
+ -- None : -2.02
+ -- right : 0.45
+ -- left : 0.00
+
+7f1031e74ce61d8e3da5be4a7512ce2b
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.33
+ -- left : -4.67
+
+f13bb6b521a993f875196b05aace7ad2
+ -- forward : -0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.50
+
+b88d8369aac02c8dbaf6401af7fcead7
+ -- forward : 1.70
+ -- None : -2.71
+ -- right : 0.00
+ -- left : 0.00
+
+cc39fedb3380dec4249a303c885397be
+ -- forward : 0.00
+ -- None : 1.05
+ -- right : 0.00
+ -- left : 0.00
+
+95d709fe2ccedc218c538c7091d1a85d
+ -- forward : -9.22
+ -- None : 1.73
+ -- right : 0.61
+ -- left : -4.80
+
+ef3a6a665d4580b9447e21a982e8ff55
+ -- forward : 1.29
+ -- None : 0.00
+ -- right : 0.71
+ -- left : 0.41
+
+a9ee702593b1fbec4e2886ee46bcf6ea
+ -- forward : -4.84
+ -- None : 0.53
+ -- right : 0.00
+ -- left : 0.00
+
+bbf723bd00421d75d88871801f91a97f
+ -- forward : 0.53
+ -- None : -5.04
+ -- right : 1.82
+ -- left : 0.75
+
+ea2c2b418501086f8efeff17e9e90fcb
+ -- forward : 0.65
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+dfc75513180c525b6a9dfcfabe7f7afa
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.83
+ -- left : 0.00
+
+953b690542aff2258448344a136ed3d5
+ -- forward : 0.32
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+fa7e9e41094e1cee6d00a3f31640d86c
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -19.68
+
+8eafb7201b0c7c4c76fa090c24d6aab0
+ -- forward : 0.00
+ -- None : 0.27
+ -- right : -10.44
+ -- left : 0.00
+
+69e9ffe59d2f72aebafcb7326c4710ff
+ -- forward : 0.00
+ -- None : 0.71
+ -- right : 0.00
+ -- left : 0.00
+
+2f4057ab6208affafe2529b27eeb4d7b
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -9.62
+
+b27b7cdcea91acf5082339ef52b8e2a8
+ -- forward : 1.15
+ -- None : -4.44
+ -- right : 1.12
+ -- left : 1.00
+
+56867066f6ab185568f26da990da57a4
+ -- forward : 0.00
+ -- None : -2.07
+ -- right : 0.00
+ -- left : 0.00
+
+4d2dde5f7424d9eb534d8c096dd054fe
+ -- forward : -19.94
+ -- None : 0.00
+ -- right : 0.77
+ -- left : 0.00
+
+36df3345f5a05e4f3749f6f076697f36
+ -- forward : 0.00
+ -- None : 1.53
+ -- right : 0.00
+ -- left : 0.00
+
+2801f809c239c17f92106d3e29d292b0
+ -- forward : 0.00
+ -- None : 1.16
+ -- right : 0.00
+ -- left : -19.80
+
+538f9462cc2f2d1908630a5903fed6cf
+ -- forward : 2.09
+ -- None : -2.72
+ -- right : 0.86
+ -- left : 1.16
+
+45f91ad51511d45864ec1fe026ee3bc4
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : -9.91
+ -- left : 0.00
+
+7938371164144bd6edfe28f36ec10de8
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.68
+ -- left : 0.00
+
+649e0d1f6d75ddfcbf318477af613418
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.18
+ -- left : 0.00
+
+15eb8d487c8258106bf03a80d4f281ec
+ -- forward : 0.74
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.21
+
+69afc04845bd2ba8e7b9095c6166c05b
+ -- forward : 0.00
+ -- None : 2.15
+ -- right : -0.10
+ -- left : -4.90
+
+ddfc3ca8b035e1523f81e799591d8d14
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.05
+ -- left : 0.00
+
+c9a090e52994fce99631ccfcc7df3eda
+ -- forward : 0.74
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+e49ee8511e65b1c589c0ad1bafa99278
+ -- forward : 0.39
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 1.84
+
+3d7d1122f51dc011b32016161f7008be
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.72
+ -- left : -4.52
+
+1157e69d3bfbad9c97ccd5d0e05ca1a2
+ -- forward : -9.15
+ -- None : 1.13
+ -- right : 0.00
+ -- left : -7.86
+
+5231afb3332c9130ebe393e1d02d5ef5
+ -- forward : 0.00
+ -- None : 1.08
+ -- right : 0.00
+ -- left : 0.00
+
+78a6a9d3e1a00441feee249ddad3df62
+ -- forward : 0.74
+ -- None : 0.00
+ -- right : 1.57
+ -- left : 0.97
+
+b148dbb48b4965c9f0058ae39716d762
+ -- forward : 1.85
+ -- None : -2.26
+ -- right : 0.28
+ -- left : 0.17
+
+24c928a8f51a76fcc0415743b13b8f2b
+ -- forward : 0.00
+ -- None : -4.10
+ -- right : 2.25
+ -- left : 0.19
+
+e45497ccf818aa19a021c80ecce8eff8
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : -9.64
+ -- left : 0.00
+
+91bc0742a3412a01b536cc3b0193e417
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -5.13
+
+a963a142d2ca146e42332e4f46ee1219
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -19.82
+
+eb5971729bb142081095104d2494291c
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.63
+ -- left : 0.00
+
+07a4b283e206c95c00217f28d5df880d
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -0.00
+
+13a79349158fa2740fff67ce940ea214
+ -- forward : -5.23
+ -- None : 0.00
+ -- right : 0.26
+ -- left : 0.00
+
+dbe26ba8d63a966a1a09777195ff7de4
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.53
+ -- left : 0.00
+
+0af429e53dee402aabb29282717deeb2
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.46
+ -- left : -5.23
+
+2fc0bf36c8880dd30566793925560634
+ -- forward : -7.29
+ -- None : -0.11
+ -- right : 1.92
+ -- left : -4.95
+
+0ba52aa9ec4745e3bface7b83d6508bc
+ -- forward : 0.00
+ -- None : 0.43
+ -- right : -9.80
+ -- left : 0.00
+
+2472a0ee955382de4ffb2257d44c699d
+ -- forward : 0.91
+ -- None : -2.22
+ -- right : 0.00
+ -- left : 1.66
+
+f4ed92912fdd94c1471628a395be39a6
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -19.99
+
+5c50ff8bd26be64cf2986bb31b64ed62
+ -- forward : 0.33
+ -- None : -5.00
+ -- right : 0.15
+ -- left : 1.61
+
+34623efc287ad02036643b0efa7b1328
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.30
+
+3f508ec3301f1c5bd11ae52a3f886e1e
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -9.83
+
+f692baa2d06ed1fc2079658a22c1317e
+ -- forward : 1.23
+ -- None : -2.43
+ -- right : 0.00
+ -- left : 0.00
+
+42051b21a7c3eb33b4cc483384e005a1
+ -- forward : 0.00
+ -- None : 0.88
+ -- right : 0.00
+ -- left : -19.87
+
+5dde38f60543cfc4d37fcc65ff31d2df
+ -- forward : -19.75
+ -- None : 0.78
+ -- right : 0.00
+ -- left : -20.48
+
+f2b78c04479ad505d6ab16d07dd31f3c
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.40
+ -- left : -20.31
+
+8d3ba3cf324fc930881a6d1b7a39784f
+ -- forward : -9.33
+ -- None : 1.79
+ -- right : 0.86
+ -- left : -10.20
+
+dd6208896fc73c30dd155f284e995b0d
+ -- forward : -7.59
+ -- None : 0.34
+ -- right : 0.00
+ -- left : -20.13
+
+40e4f2cbd93c20d284e60d76f3d3a592
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.91
+ -- left : 0.00
+
+e776fe8765430ba477817542e7363722
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -10.47
+
+f24589d0d7c02d0315e5e8d220a8e44c
+ -- forward : 0.00
+ -- None : -2.67
+ -- right : 0.00
+ -- left : 0.00
+
+ed10dd175ebd68b388a746e4200c0902
+ -- forward : -9.21
+ -- None : 1.69
+ -- right : -0.29
+ -- left : -9.48
+
+c55101e5e3b3aab55a4776204883683d
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.43
+ -- left : 0.00
+
+386d8c4b62b932885d2209a48c089adf
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : -0.16
+ -- left : 0.00
+
+e34db2ae9cf60300bb03af436739a58c
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.69
+ -- left : 0.00
+
+b0246ed19389dabcaa0d4bdd253292ff
+ -- forward : -4.75
+ -- None : 0.51
+ -- right : 0.00
+ -- left : 0.00
+
+7379dfb2a64a8cb21a425134fefc5a58
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.41
+ -- left : 0.00
+
+beb4aedb1d402f7b859123d21de0512e
+ -- forward : -4.89
+ -- None : 0.78
+ -- right : 0.72
+ -- left : -4.57
+
+46fb583c42a0aa91c8cbc9f6ce4c0e93
+ -- forward : 0.00
+ -- None : 1.71
+ -- right : 0.00
+ -- left : 0.00
+
+6b78fe4fc298dc734344bc8134223484
+ -- forward : -4.93
+ -- None : 1.73
+ -- right : 0.00
+ -- left : 0.00
+
+3463ed91fb556d2fd6b0973036f3f195
+ -- forward : -8.95
+ -- None : 1.50
+ -- right : 0.28
+ -- left : -9.76
+
+64ae5e585952e7468c2ec9106fc8273c
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.51
+
+946581fbfa907a25058b25af924739ea
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -10.18
+
+ef280b87ff67e97cf9c887ba091182ce
+ -- forward : -5.01
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+4a1a6f7629984bef12f59e5298ce9701
+ -- forward : 0.73
+ -- None : -2.49
+ -- right : 0.00
+ -- left : 0.00
+
+a3cd9beb7f291c4b06bdd426ab110fdc
+ -- forward : 0.06
+ -- None : -4.23
+ -- right : 0.56
+ -- left : 0.00
+
+2dd7a58a2c181ee8706eb69f35418624
+ -- forward : 2.07
+ -- None : -3.21
+ -- right : 0.20
+ -- left : 0.79
+
+97810d0b748ba7838709c07ca686d450
+ -- forward : -4.94
+ -- None : 0.00
+ -- right : 1.06
+ -- left : 0.00
+
+96394127113f9ea8e6b78453c1ac1553
+ -- forward : 0.00
+ -- None : -2.12
+ -- right : 0.00
+ -- left : 0.00
+
+2aa59e5844d369e2b52f872633b1d1de
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.20
+ -- left : 0.00
+
+85c5e212ed56ffa87b82390bd2df5fa4
+ -- forward : 0.00
+ -- None : 0.54
+ -- right : 0.00
+ -- left : 0.00
+
+532473347e1e22dfdf27bae1ec1ad6a5
+ -- forward : 0.00
+ -- None : 2.29
+ -- right : 0.00
+ -- left : -5.13
+
+4c8d4ef139f7200ea2b9819b04116e0f
+ -- forward : -5.28
+ -- None : 0.09
+ -- right : 1.94
+ -- left : -7.92
+
+5b59fa12ddc0811749775849c542c443
+ -- forward : 0.60
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+03b244941627397d26ab516b26285f31
+ -- forward : 1.67
+ -- None : 0.00
+ -- right : 0.58
+ -- left : 0.00
+
+b5eba491764d011a4b5debffb9ebb2b0
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.66
+ -- left : 0.00
+
+471a017ccc09736da26ee7c0090567a7
+ -- forward : 0.00
+ -- None : -2.39
+ -- right : 0.00
+ -- left : 0.00
+
+e3acf8c88e6b3645edf10a36f4de67be
+ -- forward : 0.00
+ -- None : -2.82
+ -- right : 0.00
+ -- left : 0.00
+
+376554dc3b1686a5c0c4af0919b67998
+ -- forward : 0.00
+ -- None : 0.91
+ -- right : 0.00
+ -- left : 0.00
+
+b26156e967dc615601d98826c10aea84
+ -- forward : 0.00
+ -- None : 1.34
+ -- right : 0.00
+ -- left : 0.00
+
+631312f9d33b1c6e5a2e1945840ca073
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.20
+ -- left : 0.45
+
+184d31799e1c9cb6f7a5fae35048c271
+ -- forward : 0.78
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+54ec050357e7370d7b2f45b994218c21
+ -- forward : 1.18
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+cf741b7c7673011e3b8d8ffc8d253c29
+ -- forward : 0.00
+ -- None : -2.43
+ -- right : 0.00
+ -- left : 0.00
+
+e65f7b4a5edd823eead184dc4c9a6512
+ -- forward : -29.31
+ -- None : 1.24
+ -- right : -9.74
+ -- left : -19.72
+
+3dc20bfded95ace277bbfd8cc3a219a2
+ -- forward : 0.00
+ -- None : 0.74
+ -- right : 0.00
+ -- left : 0.00
+
+e697e8288fae1f247c008e870bea8bf4
+ -- forward : 0.44
+ -- None : 0.00
+ -- right : 0.44
+ -- left : 2.08
+
+4d838c8b09609b6bd9208d82f9d61e64
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.68
+ -- left : 0.00
+
+a13eb1870ac4ff1c0229194dc5828adb
+ -- forward : -20.33
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -20.03
+
+e7cc1a86c8c63bd23e02a51f6f275625
+ -- forward : 0.00
+ -- None : 0.67
+ -- right : 0.00
+ -- left : 0.00
+
+68d6c82e0a2683183d998e47b326ad1a
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.87
+ -- left : 0.00
+
+5acec5ccfd8268166d16f8055789756d
+ -- forward : 0.00
+ -- None : 1.13
+ -- right : 0.65
+ -- left : -7.39
+
+ea9b9497d6976fc561195cca0848a463
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.41
+ -- left : -14.84
+
+52e62e25c1893326781d1d2da20143a1
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : -10.32
+ -- left : -20.44
+
+7dd9b3d6a69a194a6113dbbe628fb52e
+ -- forward : -4.74
+ -- None : 0.51
+ -- right : 0.00
+ -- left : 0.00
+
+a2a3e10140487448267e75d61a2a5138
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : -0.26
+ -- left : 0.00
+
+95570b878ac4ea855a28536672b904dd
+ -- forward : -4.82
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+e18529f48997cb3d224f7b0024386e4b
+ -- forward : 0.00
+ -- None : -0.09
+ -- right : 0.00
+ -- left : 0.00
+
+b154bcb5133e7bbe83b45c19ad995b99
+ -- forward : 0.00
+ -- None : 0.16
+ -- right : 0.00
+ -- left : 0.00
+
+d5d8ef4e16862987d58f917bd7b97d66
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.22
+ -- left : 0.00
+
+bd2216dd28548ac58b1998db46d6a520
+ -- forward : -4.54
+ -- None : 0.00
+ -- right : 0.90
+ -- left : -4.91
+
+189d0ee6da29587015ba42a2138c9409
+ -- forward : -7.31
+ -- None : 1.44
+ -- right : 0.49
+ -- left : 0.00
+
+04beac704e911af88cb999f77b48e77d
+ -- forward : 1.34
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+c12ecd68c538dbc1113d5861dab65f51
+ -- forward : 0.53
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+dfb724ea16eb5c1f867cad92db8cbbf4
+ -- forward : 0.66
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+79fb96dd9711a6c3329326bb42868111
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.01
+ -- left : 0.00
+
+55ac5d83e3cbab08241d976a40c34324
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.72
+ -- left : 0.00
+
+115a04335b7d01981ff24f4c5b807a65
+ -- forward : 0.00
+ -- None : -2.22
+ -- right : 0.00
+ -- left : 0.00
+
+1c30d2387cbad3ec61a80a0417cb0931
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -9.94
+
+27592182d6ccb5243c8765b12eacdd9c
+ -- forward : -0.24
+ -- None : -2.77
+ -- right : 1.28
+ -- left : 0.22
+
+a3ea2dd24c6d1327d6672dd92fdb3999
+ -- forward : 0.91
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+2bb143817c0dec71b879c83b06bcff17
+ -- forward : -8.97
+ -- None : 0.20
+ -- right : 1.82
+ -- left : -8.81
+
+19cb6193d3e3429053618cf527f2a3f8
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.99
+
+ba6251f97dd2ad11a930da5cb7ef00d8
+ -- forward : 0.05
+ -- None : 0.00
+ -- right : 0.59
+ -- left : 0.00
+
+fc446b04c5d1e3b8e9b955489cafaf71
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -4.69
+
+1f820c54fd65a16d9dace295f2f1b4bd
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.00
+ -- left : 0.00
+
+1aca273fe49e9a0fff5332e81e262f38
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.52
+
+ee584569771fca63003023f2aa6888ee
+ -- forward : -0.08
+ -- None : -4.10
+ -- right : 0.00
+ -- left : 0.00
+
+bc2f2560434e4029db79b09318436d4c
+ -- forward : 0.00
+ -- None : -2.83
+ -- right : 0.00
+ -- left : 0.00
+
+e4809db169109ad3e2401e0825cf5f39
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.56
+ -- left : 0.00
+
+59128b9a0699963b0767ec0bc04eb399
+ -- forward : 0.63
+ -- None : -2.41
+ -- right : 0.22
+ -- left : -9.76
+
+0da91ff66238a716580691aa23f10883
+ -- forward : 0.44
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+228244ba7621ff89ebb576a1de6ad386
+ -- forward : -5.43
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+3e4078f34a59a115600e6cf692ee9567
+ -- forward : 0.53
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+e286764bae4de6c9b39debcb7ada368f
+ -- forward : 0.00
+ -- None : 1.06
+ -- right : 0.00
+ -- left : -19.75
+
+1114f73d5d5dcc6d0a38d4f561bc50ce
+ -- forward : 0.11
+ -- None : -4.95
+ -- right : 0.67
+ -- left : -10.00
+
+29bdcda370bd263a1eb63b9e662a7f05
+ -- forward : 0.52
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.06
+
+d3f949808de6247f8e9344e3b341ba34
+ -- forward : -20.03
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+16493685ae94aabfd90583001d9a0ceb
+ -- forward : 0.71
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+327f1f913a613e63d438a61aa1b42123
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.40
+ -- left : 0.00
+
+4ef8a3d04ff75f9eb7a71a345b523403
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.95
+ -- left : 0.00
+
+8f00fa01d659753ca0b7f5ff2210a370
+ -- forward : -20.42
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+9f765f336b5de8c6e4d5015c933c69c8
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.16
+ -- left : 0.00
+
+c0f6e14f095052a4257492e93a33b56f
+ -- forward : 0.00
+ -- None : -2.43
+ -- right : 0.77
+ -- left : 0.00
+
+be1883cdd39a9f42a1e234b2f31ae544
+ -- forward : -20.27
+ -- None : 1.14
+ -- right : -10.37
+ -- left : -20.38
+
+b6a734d8660e66aa24976ba11ad785e5
+ -- forward : 0.00
+ -- None : 1.44
+ -- right : -9.99
+ -- left : 0.00
+
+2a5cb28b2b7c8f89da3a080f64f16e69
+ -- forward : 1.34
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+0eb50efe545cb940150a6563e31d9da0
+ -- forward : 1.66
+ -- None : 0.00
+ -- right : 0.03
+ -- left : 1.17
+
+3fced17af78d261dbe7022347653aeae
+ -- forward : 2.25
+ -- None : -3.51
+ -- right : 0.81
+ -- left : -9.59
+
+a042f3f5de067a239afff6aec4269bc2
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 0.43
+ -- left : 0.00
+
+999546f60319fd9b05c96fa51e586dc6
+ -- forward : 0.00
+ -- None : 0.84
+ -- right : 0.00
+ -- left : 0.00
+
+cc3f5c882a46c99a8b08acbfed4541b1
+ -- forward : 0.00
+ -- None : 0.46
+ -- right : 0.00
+ -- left : 0.00
+
+f36b0690169947f4ca8f8f8f3c348e07
+ -- forward : -30.34
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -20.31
+
+f7bed5e7c41848f67844476811a2306e
+ -- forward : 0.29
+ -- None : -2.44
+ -- right : 0.56
+ -- left : 1.71
+
+bd420c3fb2d86d8f8cf1fcf8ce268ceb
+ -- forward : 0.00
+ -- None : 0.88
+ -- right : 0.00
+ -- left : 0.00
+
+8c9cd4ea39177379fcf54bcd1ff6a3a3
+ -- forward : -5.35
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+973a37e28188689d3eb9564c32e2f6d6
+ -- forward : 1.09
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+4909bd469201c9cd780ee2acf66d8e03
+ -- forward : -0.22
+ -- None : -2.83
+ -- right : -0.07
+ -- left : 0.00
+
+b4e11837e76c137ecfbaa9cedf89174d
+ -- forward : 0.00
+ -- None : 0.00
+ -- right : 1.76
+ -- left : 0.00
+
+1891fe2469e09d09941787e975daf14b
+ -- forward : 0.00
+ -- None : 0.93
+ -- right : 0.00
+ -- left : 0.00
+
+f184094fab584b4236758da793e3d4be
+ -- forward : 0.00
+ -- None : -2.22
+ -- right : 0.00
+ -- left : 0.00
+
+8f4f875f6ca97a224e7870e96de213c2
+ -- forward : 0.04
+ -- None : 0.00
+ -- right : 0.00
+ -- left : -10.26
+
+479ed70747b097b68832d5c5acd79ee0
+ -- forward : 0.00
+ -- None : -2.51
+ -- right : 0.00
+ -- left : 0.51
+
+3767c0b980aa4813061d46ad1ff1655c
+ -- forward : 1.15
+ -- None : 0.00
+ -- right : 0.00
+ -- left : 0.00
+
+cff3da3c7e94b0331f7ebcf7bff86fa5
+ -- forward : 0.00
+ -- None : -2.17
+ -- right : -0.06
+ -- left : 0.00
+
+f5afa65e744c844d766dc86f3bd6d003
+ -- forward : 0.00
+ -- None : 1.67
+ -- right : 0.00
+ -- left : -20.09
+
+7c10aa0f962d05a5d5b938804e687e77
+ -- forward : -19.69
+ -- None : 0.00
+ -- right : 0.84
+ -- left : 0.00
+

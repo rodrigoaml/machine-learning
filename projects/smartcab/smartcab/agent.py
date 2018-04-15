@@ -1,7 +1,6 @@
 import random
 import math
 import numpy as np
-import hashlib
 import json
 from environment import Agent, Environment
 from planner import RoutePlanner
@@ -27,8 +26,6 @@ class LearningAgent(Agent):
         ###########
         # Set any additional class parameters as needed
         self.k_trials = 0
-        self.decay_rate = 0.03
-
 
     def reset(self, destination=None, testing=False):
         """ The reset function is called at the beginning of each trial.
@@ -46,12 +43,11 @@ class LearningAgent(Agent):
         # If 'testing' is True, set epsilon and alpha to 0
         self.k_trials += 1
         if (testing):
-            epsilon = 0
-            alpha = 0
+            self.epsilon = 0
+            self.alpha = 0
         else:
-            #self.epsilon = self.epsilon - self.decay_rate * self.k_trials
-            self.epsilon = self.epsilon - 0.05
-
+            self.epsilon = .99**(self.k_trials/7)
+        
         return None
 
     def build_state(self):
@@ -111,7 +107,7 @@ class LearningAgent(Agent):
 
     def stateToHash(self, state):
         state_string = state[0] + json.dumps(state[1])        
-        return hashlib.md5(state_string).hexdigest()        
+        return state_string
     
     def choose_action(self, state):
         """ The choose_action function is called when the agent is asked to choose
@@ -130,9 +126,12 @@ class LearningAgent(Agent):
         # Otherwise, choose an action with the highest Q-value for the current state
         # Be sure that when choosing an action with highest Q-value that you randomly select between actions that "tie".
 
-        # credits to https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf
         if (self.learning):
-            if (np.random.rand(1) < self.epsilon):
+            random_action_choice = np.random.choice(
+                ['rand', 'bq'],
+                p = [self.epsilon, 1 - self.epsilon]
+            )
+            if (random_action_choice == 'rand'):
                 action = np.random.choice(self.valid_actions)
             else:
                 maxQ = self.get_maxQ(state)
@@ -185,7 +184,7 @@ def run():
     #   verbose     - set to True to display additional output from the simulation
     #   num_dummies - discrete number of dummy agents in the environment, default is 100
     #   grid_size   - discrete number of intersections (columns, rows), default is (8, 6)
-    env = Environment()
+    env = Environment(verbose=True)
     
     ##############
     # Create the driving agent
@@ -193,7 +192,7 @@ def run():
     #   learning   - set to True to force the driving agent to use Q-learning
     #    * epsilon - continuous value for the exploration factor, default is 1
     #    * alpha   - continuous value for the learning rate, default is 0.5
-    agent = env.create_agent(LearningAgent, learning=True)
+    agent = env.create_agent(LearningAgent, learning=True, alpha=.5)
     
     ##############
     # Follow the driving agent
@@ -208,14 +207,14 @@ def run():
     #   display      - set to False to disable the GUI if PyGame is enabled
     #   log_metrics  - set to True to log trial and simulation results to /logs
     #   optimized    - set to True to change the default log file name
-    sim = Simulator(env, update_delay=0.01, display=False, log_metrics=True)
+    sim = Simulator(env, update_delay=0.001, display=False, log_metrics=True, optimized=True)
     
     ##############
     # Run the simulator
     # Flags:
     #   tolerance  - epsilon tolerance before beginning testing, default is 0.05 
     #   n_test     - discrete number of testing trials to perform, default is 0
-    sim.run(n_test=10)
+    sim.run(n_test=100)
 
 
 if __name__ == '__main__':
